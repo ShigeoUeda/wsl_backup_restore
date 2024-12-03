@@ -26,4 +26,4 @@ wsl_restore.bat [バックアップファイルパス] [復元先ディストリ
 wsl_restore.bat C:\wsl_images\backup.tar Ubuntu-Restore
 wsl_restore.bat D:\backups\ubuntu_20231203_1200.tar MyUbuntu D:\wsl
 ```
-```
+
