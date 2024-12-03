@@ -17,7 +17,7 @@ wsl_backup.bat Ubuntu-22.04 D:\backups
 # wsl_restore.bat
 WSLディストリビューションの復元スクリプト
 
-**使用方法: **
+**使用方法:**
 ```cmd
 wsl_restore.bat [バックアップファイルパス] [復元先ディストリビューション名] [復元先ディレクトリ(省略可:Default値 C:\wsl_images\)]
 ```
